@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Search{
+class LinearSearch{
 
     static int[] arr = {1,4,23,54,45,553,2,234,665,55};
 
